@@ -1,0 +1,22 @@
+INHERIT: mkdocs.base.yml
+
+site_name: NodeNexus TUI — Documentation
+site_url: https://nodenexusdev.github.io/node_nexus_tui/en/
+
+docs_dir: docs/en
+site_dir: site/en
+
+theme:
+  language: en
+
+extra_javascript:
+  - assets/javascripts/language-switcher.js
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started/index.md
+  - Guides: guides/index.md
+  - Operations: operations/index.md
+  - Development: development/index.md
+  - Architecture: architecture/index.md
+  - Reference: reference/index.md

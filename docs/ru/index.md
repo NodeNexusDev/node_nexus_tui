@@ -1,11 +1,15 @@
 ---
 title: Документация NodeNexus TUI
-status: stable
+status: draft
 translation_key: home
 source_revision: 2026-09-09
 ---
 
 # Документация NodeNexus TUI
+
+!!! note "Скоро"
+
+    Код NodeNexus TUI пока пуст — это только каркас. Документация будет наполняться по мере реализации продукта.
 
 Добро пожаловать в документацию NodeNexus TUI.
 

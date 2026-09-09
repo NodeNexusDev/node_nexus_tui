@@ -1,6 +1,6 @@
 ---
 title: Справочник
-status: stable
+status: draft
 translation_key: reference
 source_revision: 2026-09-09
 ---

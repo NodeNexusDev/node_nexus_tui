@@ -1,11 +1,15 @@
 ---
 title: NodeNexus TUI Documentation
-status: stable
+status: draft
 translation_key: home
 source_revision: 2026-09-09
 ---
 
 # NodeNexus TUI Documentation
+
+!!! note "Coming soon"
+
+    The NodeNexus TUI codebase is currently an empty skeleton — this documentation is a placeholder only and will be filled in as the product is implemented.
 
 Welcome to the NodeNexus TUI documentation.
 

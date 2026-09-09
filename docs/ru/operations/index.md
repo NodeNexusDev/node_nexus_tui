@@ -1,10 +1,10 @@
 ---
 title: Операции
 status: stable
-translation_key: operations-01
+translation_key: operations
 source_revision: 2026-09-09
 ---
 
 # Операции
 
-Деплой и операции.
+Деплой, установка и эксплуатация NodeNexus TUI.

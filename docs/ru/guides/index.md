@@ -1,10 +1,10 @@
 ---
 title: Гайды
 status: stable
-translation_key: guides-02
+translation_key: guides
 source_revision: 2026-09-09
 ---
 
 # Гайды
 
-Пошаговые гайды.
+Пошаговые инструкции по использованию функций NodeNexus TUI.

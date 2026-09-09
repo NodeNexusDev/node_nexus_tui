@@ -1,10 +1,10 @@
 ---
 title: Getting Started
 status: stable
-translation_key: guides-01
+translation_key: getting_started
 source_revision: 2026-09-09
 ---
 
 # Getting Started
 
-Getting started with NodeNexus TUI.
+Learn how to install, configure, and start using NodeNexus TUI.

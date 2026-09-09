@@ -1,10 +1,10 @@
 ---
 title: Разработка
 status: stable
-translation_key: development-01
+translation_key: development
 source_revision: 2026-09-09
 ---
 
 # Разработка
 
-Разработка и workflow.
+Локальная разработка, workflow и рекомендации для контрибьюторов NodeNexus TUI.

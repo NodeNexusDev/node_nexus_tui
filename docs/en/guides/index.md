@@ -1,10 +1,10 @@
 ---
 title: Guides
 status: stable
-translation_key: guides-02
+translation_key: guides
 source_revision: 2026-09-09
 ---
 
 # Guides
 
-Step-by-step guides.
+Step-by-step guides for using NodeNexus TUI features.

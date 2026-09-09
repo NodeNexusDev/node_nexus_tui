@@ -1,10 +1,10 @@
 ---
 title: Reference
 status: stable
-translation_key: reference-01
+translation_key: reference
 source_revision: 2026-09-09
 ---
 
 # Reference
 
-Reference material.
+Configuration reference, command reference, and glossary.

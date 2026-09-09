@@ -1,10 +1,10 @@
 ---
 title: Справочник
 status: stable
-translation_key: reference-01
+translation_key: reference
 source_revision: 2026-09-09
 ---
 
 # Справочник
 
-Справочные материалы.
+Справочник конфигурации, команд и глоссарий.

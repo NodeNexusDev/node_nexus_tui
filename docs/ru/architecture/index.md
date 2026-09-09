@@ -1,10 +1,10 @@
 ---
 title: Архитектура
 status: stable
-translation_key: architecture-01
+translation_key: architecture
 source_revision: 2026-09-09
 ---
 
 # Архитектура
 
-Системный дизайн.
+Системный дизайн и технический обзор NodeNexus TUI.
